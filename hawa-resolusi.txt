@@ -1,5 +1,6 @@
 mi ayam
 bakso
-#bakso spi
+*bakso ayam
+
 ayam goreng
 kipas
